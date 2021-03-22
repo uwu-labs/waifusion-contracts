@@ -1,6 +1,12 @@
 # Waifusion Contracts
 Tracking & documenting on-chain contracts for the Waifusion NFT project. There are 3 contracts that make Waifusion work: Waifus, WaifuEnhancementToken (WET) and Dungeon.
 
+## Contract Addresses
+Official main-net deployed contract addresses:  
+Waifus: `0x2216d47494e516d8206b70fca8585820ed3c4946`  
+WaifuEnhancementToken: `0x76280af9d18a868a0af3dca95b57dde816c1aaf2`  
+WaifuDungeon: `0xB291984262259BcFe6Aa02b66a06e9769C5c1eF3`
+
 ## Waifus
 This is the core waifu contract that extends the ERC721 (NFT) implementation. It contains the mappings of token owners, waifu names and more.
 
